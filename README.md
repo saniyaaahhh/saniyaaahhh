@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Saniya Naz
 
-<!--
-**saniyaaahhh/saniyaaahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- CSE (IoT) Student
+- Interested in Cybersecurity
+- Currently learning Ethical Hacking and VAPT
+- Passionate about Linux and Networking
 
-Here are some ideas to get you started:
+## 💻 Skills
+- C
+- Java
+- Python
+- HTML
+- CSS
+- Linux (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Currently Learning
+- Git & GitHub
+- Networking
+- Cybersecurity
+- VAPT
+- OWASP Top 10
+- Burp Suite
+- Nmap
+- Metasploit
+
+## 🎯 Career Goal
+To build a career in Cybersecurity 
+⭐ Thanks for visiting my GitHub profile!
