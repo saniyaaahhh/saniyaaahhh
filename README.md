@@ -1,15 +1,14 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SANIYA%20NAZ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20IoT%20%7C%20Cybersecurity%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;IoT+%7C+Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+Java+Developer;Data+Analytics+Enthusiast;Building+Secure+%26+Practical+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;IoT+%7C+Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+Java+Developer;Data+Analytics+Enthusiast;Building+Secure+%26+Practical+Solutions" alt="Typing SVG"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.E-CSE%20(IoT)-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.E-CSE%20%28IoT%29-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CGPA-9.12-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Interested-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mangaluru-Karnataka-4F46E5?style=for-the-badge"/>
@@ -19,9 +18,11 @@
 <a href="mailto:saniyanazz16@gmail.com">
 <img src="https://img.shields.io/badge/Email-saniyanazz16%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/saniyanaz-dev">
 <img src="https://img.shields.io/badge/LinkedIn-Saniya%20Naz-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/saniyaaahhh">
 <img src="https://img.shields.io/badge/GitHub-saniyaaahhh-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -29,29 +30,31 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=saniyaaahhh&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
 <img src="https://img.shields.io/github/followers/saniyaaahhh?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
+
 <img src="https://img.shields.io/github/stars/saniyaaahhh?style=for-the-badge&color=7C3AED&label=STARS"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a motivated **Computer Science and Engineering student specializing in IoT, Cybersecurity, and Blockchain Technology**, with a strong interest in **cybersecurity, data analytics, software development, and intelligent connected systems**.
+I am a motivated **Computer Science and Engineering student specializing in IoT, Cybersecurity, and Blockchain Technology**, passionate about **Cybersecurity, Data Analytics, and Software Development**.
 
-I enjoy building practical solutions using **Python, C, C++, Java, web technologies, and IoT**, while continuously strengthening my understanding of core computer science concepts, security, and data-driven problem solving.
+I enjoy working with **Python, C, C++, Java, Web Technologies, and IoT-based systems**, while continuously improving my analytical, problem-solving, and technical skills.
 
-My approach combines technical learning with **analytical thinking, teamwork, leadership, innovation, and continuous improvement**.
+My goal is to contribute to challenging and innovative projects while developing strong expertise in **secure software development, cybersecurity, data analytics, and connected technologies**.
 
 ### Open To
 
-- Entry-level Software Development opportunities
-- Cybersecurity opportunities
-- Data Analytics opportunities
-- IoT and embedded-systems projects
-- Collaborative technical projects
-- Learning and contributing to innovative engineering teams
+* Software Development Opportunities
+* Cybersecurity Opportunities
+* Data Analytics Opportunities
+* IoT Projects
+* Technical Collaborations
+* Learning and Innovation
 
 ---
 
@@ -60,41 +63,45 @@ My approach combines technical learning with **analytical thinking, teamwork, le
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-**Additional Tools:** Oracle VM VirtualBox
+**Additional Tools:** Eclipse IDE, Arduino IDE, Oracle VM VirtualBox
+
+### IoT
+
+`Arduino` `Sensor Interfacing` `Basic Embedded Systems`
 
 ---
 
-## AI / ML & Data Expertise
+## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python | Intermediate | Programming, problem solving and development |
-| Data Analytics | Fundamentals | Data analysis fundamentals and analytical problem solving |
-| Data Analysis with Python | Fundamentals | Python-based data analysis |
-| AI Services | Fundamentals | Rapid development concepts for AI services |
-| IoT | Fundamentals | Arduino, sensor interfacing and basic embedded systems |
-| Cybersecurity | Fundamentals | Cybersecurity fundamentals and network security basics |
+| Domain                    | Proficiency  | Details                                                |
+| ------------------------- | ------------ | ------------------------------------------------------ |
+| Python                    | Fundamentals | Programming and software development                   |
+| Data Analytics            | Fundamentals | Data analysis and analytical problem solving           |
+| Data Analysis with Python | Fundamentals | Python-based data analysis                             |
+| AI Services               | Fundamentals | Rapid development concepts for AI services             |
+| IoT                       | Fundamentals | Arduino, sensor interfacing and embedded systems       |
+| Cybersecurity             | Fundamentals | Cybersecurity fundamentals and network security basics |
 
 ---
 
@@ -105,20 +112,20 @@ My approach combines technical learning with **analytical thinking, teamwork, le
 
 <br>
 
-An **IoT-based smart waste management solution** designed to monitor waste levels in real time and support more efficient garbage collection.
+An **IoT-based system developed to monitor waste levels in real time and optimize garbage collection efficiency.**
 
-| Attribute | Details |
-|---|---|
-| **Stack** | IoT, Arduino, Sensors, Embedded Systems |
-| **Scale** | Academic Project |
-| **Performance** | Real-time waste-level monitoring |
-| **Security** | IoT system security considerations |
-| **Impact** | Helps optimize garbage collection efficiency |
-| **Repository** | [GitHub](https://github.com/saniyaaahhh) |
+| Attribute       | Details                                          |
+| --------------- | ------------------------------------------------ |
+| **Stack**       | Arduino, Sensors, IoT, Embedded Systems          |
+| **Scale**       | Academic Project                                 |
+| **Performance** | Real-time waste-level monitoring                 |
+| **Security**    | IoT security considerations                      |
+| **Impact**      | Helps optimize garbage collection efficiency     |
+| **Repository**  | [GitHub Profile](https://github.com/saniyaaahhh) |
 
-### Professional Overview
+### Project Overview
 
-The project focuses on applying **IoT and sensor-based monitoring** to waste management. Real-time information about waste levels can help improve collection planning and reduce unnecessary collection trips.
+The project applies IoT-based monitoring to waste management by tracking waste levels in real time. The system aims to support more efficient garbage collection and improve waste-management operations.
 
 </details>
 
@@ -129,20 +136,20 @@ The project focuses on applying **IoT and sensor-based monitoring** to waste man
 
 <br>
 
-A hospital management solution designed to streamline **patient records, appointments, and hospital resource management** through secure role-based access.
+A **Hospital Resource and Patient Management System** developed to streamline patient records, appointments, and hospital resource management.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, Web Technologies |
-| **Scale** | Academic Project |
-| **Performance** | Streamlined patient and resource management |
-| **Security** | Authentication and role-based access control |
-| **Impact** | Improved data management, operational efficiency and user experience |
-| **Repository** | [GitHub](https://github.com/saniyaaahhh) |
+| Attribute       | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| **Stack**       | HTML, CSS, JavaScript, Web Technologies                              |
+| **Scale**       | Academic Project                                                     |
+| **Performance** | Streamlined patient and resource management                          |
+| **Security**    | Authentication and role-based access control                         |
+| **Impact**      | Improved data management, operational efficiency and user experience |
+| **Repository**  | [GitHub Profile](https://github.com/saniyaaahhh)                     |
 
-### Professional Overview
+### Project Overview
 
-The system focuses on secure management of hospital information through **authentication and access control**. It is designed to organize patient records, appointments, and hospital resources while improving usability and operational efficiency.
+The system focuses on managing hospital information through **secure authentication and role-based access control**. It is designed to organize patient records, appointments, and hospital resources while improving operational efficiency and user experience.
 
 </details>
 
@@ -150,16 +157,17 @@ The system focuses on secure management of hospital information through **authen
 
 ## Experience
 
-### Student Leadership & Academic Contribution
+### Student Council Leadership
 
-**Student Council Leadership**
+**Student Leadership & Academic Contribution**
 
-- Team leadership and representative leadership
-- Event and activity coordination
-- Technical and academic contribution
-- Collaboration with students and teams
-- Communication and coordination
-- Problem solving and innovation
+* Team Leadership
+* Representative Leadership
+* Event & Activity Coordination
+* Technical & Academic Contribution
+* Team Collaboration
+* Communication
+* Problem Solving
 
 ### Skills Tags
 
@@ -171,12 +179,13 @@ The system focuses on secure management of hospital information through **authen
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Academic Performance** | CGPA **9.12** in B.E. |
-| **Pre-University Performance** | **92.6%** |
-| **Technical Leadership** | Student Council Leadership |
-| **Project Development** | Developed IoT and secure hospital-management academic projects |
+| Recognition                    | Details                                            |
+| ------------------------------ | -------------------------------------------------- |
+| **Academic Performance**       | B.E. CGPA: **9.12**                                |
+| **Pre-University Performance** | **92.6%**                                          |
+| **School Performance**         | **82.56%**                                         |
+| **Student Leadership**         | Student Council Leadership                         |
+| **Technical Projects**         | IoT and secure Hospital Management System projects |
 
 </div>
 
@@ -184,27 +193,19 @@ The system focuses on secure management of hospital information through **authen
 
 ## Certifications
 
-### Professional Certifications
+<div align="center">
 
-<p>
 <img src="https://img.shields.io/badge/Introduction%20to%20Data%20Analysis%20using%20Microsoft%20Excel-8B5CF6?style=for-the-badge"/>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-6366F1?style=for-the-badge"/>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/Cybersecurity%20Job%20Simulation-7C3AED?style=for-the-badge"/>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/Introduction%20to%20Python%20Programming-4F46E5?style=for-the-badge"/>
-</p>
 
-<p>
 <img src="https://img.shields.io/badge/Rapid%20Development%20for%20AI%20Services-6D28D9?style=for-the-badge"/>
-</p>
+
+</div>
 
 ---
 
@@ -222,16 +223,16 @@ The system focuses on secure management of hospital information through **authen
 
 </div>
 
-### LeetCode Snapshot
+### LeetCode
 
-| Metric | Current |
-|---|---:|
-| Problems Solved | **1** |
-| Easy | **0** |
-| Medium | **1** |
-| Hard | **0** |
-| Followers | **1** |
-| Languages | **C++, Java** |
+| Metric          |       Current |
+| --------------- | ------------: |
+| Problems Solved |         **1** |
+| Easy            |         **0** |
+| Medium          |         **1** |
+| Hard            |         **0** |
+| Followers       |         **1** |
+| Languages       | **C++, Java** |
 
 ---
 
@@ -243,9 +244,9 @@ The system focuses on secure management of hospital information through **authen
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyaaahhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyaaahhh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyaaahhh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
 
 </div>
 
@@ -295,13 +296,14 @@ Building:
   - IoT-based solutions
   - Secure Hospital Management Systems
   - Web-based applications
-  - Practical academic projects
+  - Academic projects
 
 Exploring:
   - Cybersecurity
   - AI Services
   - Data Analytics with Python
-  - IoT and Embedded Systems
+  - IoT
+  - Embedded Systems
   - Secure Software Engineering
 
 Open To:
@@ -311,7 +313,7 @@ Open To:
   - Cybersecurity projects
   - Data analytics projects
   - IoT projects
-````
+```
 
 ---
 
@@ -339,12 +341,12 @@ Open To:
 
 ---
 
+## Footer
+
 <div align="center">
 
-### Building secure, practical and meaningful technology through continuous learning.
+**Building secure, practical and meaningful technology through continuous learning.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
 
 </div>
-```
-
