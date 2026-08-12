@@ -363,40 +363,34 @@ The system focuses on managing hospital information through **secure authenticat
 </div>
 
 ---
-
-# 📈 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/saniyaaahhh">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saniyaaahhh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Statistics"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyaaahhh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Contribution Streak"/>
 </a>
-
-<a href="https://github.com/saniyaaahhh">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyaaahhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top Languages"/>
-
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saniyaaahhh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saniyaaahhh&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/saniyaaahhh?tab=repositories">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+</a>
+
+<a href="https://github.com/saniyaaahhh?tab=stars">
+<img src="https://img.shields.io/badge/My%20GitHub%20Stars-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/>
+</a>
 
 </div>
 
----
+
+
+
+
 
 # 📊 Contribution Activity
 
