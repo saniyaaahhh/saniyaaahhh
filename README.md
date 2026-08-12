@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://leetcode.com/u/saniyaaahhh/">
-<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <br><br>
@@ -43,141 +43,217 @@
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 I am a motivated **Computer Science and Engineering student specializing in IoT, Cybersecurity, and Blockchain Technology**, passionate about **Cybersecurity, Data Analytics, and Software Development**.
 
-I work with **Python, C, C++, Java, HTML, CSS, JavaScript, and IoT technologies**, while continuously strengthening my analytical, problem-solving, and technical abilities.
+I enjoy working with **Python, C, C++, Java, Web Technologies, and IoT-based systems**, while continuously improving my analytical, problem-solving, and technical skills.
 
-I enjoy building practical technology solutions and exploring areas such as **Cybersecurity, Data Analytics, IoT, Software Development, and secure systems**.
+My goal is to contribute to challenging and innovative projects while developing strong expertise in **secure software development, cybersecurity, data analytics, and connected technologies**.
 
-### Open To
+### 🚀 Open To
 
-* Software Development Opportunities
-* Cybersecurity Opportunities
-* Data Analytics Opportunities
-* IoT Projects
-* Technical Collaborations
-* Innovative Engineering Projects
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Programming Languages"/>
-</p>
-
-### Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies"/>
-</p>
-
-### IoT & Embedded Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
-
-</p>
-
-`Arduino` `Sensor Interfacing` `Basic Embedded Systems`
-
-### Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-</p>
-
-`Visual Studio Code` `Eclipse IDE` `Arduino IDE` `Oracle VM VirtualBox`
-
-### Core Computer Science
-
-`Data Structures & Algorithms` `Database Management Systems` `Operating Systems` `Computer Networks`
+- Software Development Opportunities
+- Cybersecurity Opportunities
+- Data Analytics Opportunities
+- IoT Projects
+- Technical Collaborations
+- Innovative Academic & Technical Projects
 
 ---
 
-## AI / ML Expertise
+# 🛠️ Tech Stack
 
-| Domain                    | Proficiency  | Details                                                |
-| ------------------------- | ------------ | ------------------------------------------------------ |
-| Python                    | Fundamentals | Programming and software development                   |
-| Data Analytics            | Fundamentals | Data analysis and analytical problem solving           |
-| Data Analysis with Python | Fundamentals | Python-based data analysis                             |
-| AI Services               | Fundamentals | Rapid development concepts for AI services             |
-| IoT                       | Fundamentals | Arduino, sensor interfacing and basic embedded systems |
-| Cybersecurity             | Fundamentals | Cybersecurity fundamentals and network security basics |
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Programming Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
 ---
 
-## Featured Projects
+## 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Frontend-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## ⚙️ Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" alt="Backend and Database"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🔌 IoT & Embedded Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensor%20Interfacing-IoT-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Fundamentals-6A1B9A?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Security-Fundamentals-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure%20Software-Fundamentals-7C3AED?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Data Analytics & AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Fundamentals-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Services-Fundamentals-8B5CF6?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧰 Tools & Development Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-Development-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20VM%20VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Core Computer Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Management%20Systems-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-8B5CF6?style=for-the-badge"/>
+</p>
+
+---
+
+# 📚 AI / ML & Technical Knowledge
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Python | Fundamentals | Programming and software development |
+| Data Analytics | Fundamentals | Data analysis and analytical problem solving |
+| Data Analysis with Python | Fundamentals | Python-based data analysis |
+| AI Services | Fundamentals | Rapid development concepts for AI services |
+| IoT | Fundamentals | Arduino, sensor interfacing and embedded systems |
+| Cybersecurity | Fundamentals | Cybersecurity fundamentals and network security basics |
+
+---
+
+# 🚀 Featured Projects
 
 <details>
-<summary><strong>IoT-Based Smart Waste Management System</strong></summary>
+<summary><strong>♻️ IoT-Based Smart Waste Management System</strong></summary>
 
 <br>
 
-An IoT-based system developed to **monitor waste levels in real time and optimize garbage collection efficiency**.
+An **IoT-based system developed to monitor waste levels in real time and optimize garbage collection efficiency.**
 
-| Attribute       | Details                                       |
-| --------------- | --------------------------------------------- |
-| **Stack**       | IoT, Arduino, Sensors, Basic Embedded Systems |
-| **Scale**       | Academic Project                              |
-| **Performance** | Real-time waste-level monitoring              |
-| **Security**    | IoT security considerations                   |
-| **Impact**      | Supports efficient garbage collection         |
-| **Repository**  | [GitHub](https://github.com/saniyaaahhh)      |
+| Attribute | Details |
+|---|---|
+| **Technology** | Arduino, Sensors, IoT, Embedded Systems |
+| **Type** | Academic Project |
+| **Function** | Real-time waste-level monitoring |
+| **Focus** | Smart Waste Management |
+| **Security** | IoT security considerations |
+| **Impact** | Supports efficient garbage collection |
 
 ### Project Overview
 
-The project applies IoT-based technology to waste management by monitoring waste levels in real time. The system aims to support better collection planning and improve garbage collection efficiency.
+The project applies IoT-based monitoring to waste management by tracking waste levels in real time. The system aims to support better collection planning and improve waste-management operations.
+
+<a href="https://github.com/saniyaaahhh">
+<img src="https://img.shields.io/badge/View%20GitHub%20Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Hospital Resource and Patient Management System with Secure Access</strong></summary>
+<summary><strong>🏥 Hospital Resource and Patient Management System with Secure Access</strong></summary>
 
 <br>
 
-A Hospital Resource and Patient Management System developed to **streamline patient records, appointments, and hospital resource management**.
+A **Hospital Resource and Patient Management System** developed to streamline patient records, appointments, and hospital resource management.
 
-| Attribute       | Details                                                              |
-| --------------- | -------------------------------------------------------------------- |
-| **Stack**       | HTML, CSS, JavaScript, Web Technologies                              |
-| **Scale**       | Academic Project                                                     |
-| **Performance** | Streamlined patient and resource management                          |
-| **Security**    | Authentication and role-based access control                         |
-| **Impact**      | Improved data management, operational efficiency and user experience |
-| **Repository**  | [GitHub](https://github.com/saniyaaahhh)                             |
+| Attribute | Details |
+|---|---|
+| **Technology** | HTML, CSS, JavaScript, Web Technologies |
+| **Type** | Academic Project |
+| **Function** | Patient and hospital resource management |
+| **Security** | Authentication and role-based access control |
+| **Focus** | Hospital Management |
+| **Impact** | Improved data management and user experience |
 
 ### Project Overview
 
-The system focuses on secure management of hospital information through **authentication and role-based access control**. It is designed to organize patient records, appointments, and hospital resources while improving operational efficiency and user experience.
+The system focuses on managing hospital information through **secure authentication and role-based access control**. It is designed to organize patient records, appointments, and hospital resources while improving operational efficiency and user experience.
+
+<a href="https://github.com/saniyaaahhh">
+<img src="https://img.shields.io/badge/View%20GitHub%20Profile-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
 ---
 
-## Experience
+# 🏆 Experience & Leadership
 
-### Student Council Leadership
+## Student Council Leadership
 
 **Student Leadership & Academic Contribution**
 
-* Team Leadership
-* Representative Leadership
-* Event & Activity Coordination
-* Technical & Academic Contribution
-* Team Collaboration
-* Communication
-* Problem Solving
+- Team Leadership
+- Representative Leadership
+- Event & Activity Coordination
+- Technical & Academic Contribution
+- Team Collaboration
+- Communication
+- Problem Solving
 
-### Skills
+### Professional Skills
 
 `Leadership` `Communication` `Teamwork` `Problem Solving`
 
@@ -185,91 +261,83 @@ The system focuses on secure management of hospital information through **authen
 
 ---
 
-## Achievements
+# 🥇 Achievements
 
 <div align="center">
 
-| Recognition                    | Details                                                |
-| ------------------------------ | ------------------------------------------------------ |
-| **B.E. Academic Performance**  | CGPA **9.12**                                          |
-| **Pre-University Performance** | **92.6%**                                              |
-| **School Performance**         | **82.56%**                                             |
-| **Student Leadership**         | Student Council Leadership                             |
-| **Technical Projects**         | IoT Smart Waste Management System                      |
-| **Technical Projects**         | Secure Hospital Resource and Patient Management System |
+| Recognition | Details |
+|---|---|
+| 🎓 **B.E. Academic Performance** | CGPA **9.12** |
+| 📚 **Pre-University Performance** | **92.6%** |
+| 🏫 **School Performance** | **82.56%** |
+| 👥 **Student Leadership** | Student Council Leadership |
+| 💻 **Technical Projects** | IoT Smart Waste Management System |
+| 🏥 **Technical Projects** | Hospital Resource & Patient Management System |
 
 </div>
 
 ---
 
-## Certifications
+# 📜 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Introduction%20to%20Data%20Analysis%20using%20Microsoft%20Excel-8B5CF6?style=for-the-badge" alt="Data Analysis using Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Introduction%20to%20Data%20Analysis%20using%20Microsoft%20Excel-8B5CF6?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-6366F1?style=for-the-badge" alt="Data Analysis with Python"/>
+<img src="https://img.shields.io/badge/Data%20Analysis%20with%20Python-6366F1?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Cybersecurity%20Job%20Simulation-7C3AED?style=for-the-badge" alt="Cybersecurity Job Simulation"/>
+<img src="https://img.shields.io/badge/Cybersecurity%20Job%20Simulation-7C3AED?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Introduction%20to%20Python%20Programming-4F46E5?style=for-the-badge" alt="Introduction to Python Programming"/>
+<img src="https://img.shields.io/badge/Introduction%20to%20Python%20Programming-4F46E5?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Rapid%20Development%20for%20AI%20Services-6D28D9?style=for-the-badge" alt="Rapid Development for AI Services"/>
+<img src="https://img.shields.io/badge/Rapid%20Development%20for%20AI%20Services-6D28D9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Coding Profiles
+# 👩‍💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/saniyaaahhh/">
-<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/saniyaaahhh">
-<img src="https://img.shields.io/badge/GitHub-saniyaaahhh-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-saniyaaahhh-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-### LeetCode Snapshot
+## LeetCode Progress
 
-| Metric          |       Current |
-| --------------- | ------------: |
-| Problems Solved |         **1** |
-| Easy            |         **0** |
-| Medium          |         **1** |
-| Hard            |         **0** |
-| Followers       |         **1** |
-| Languages       | **C++, Java** |
+| Metric | Current |
+|---|---:|
+| Problems Solved | **1** |
+| Easy | **0** |
+| Medium | **1** |
+| Hard | **0** |
+| Followers | **1** |
+| Languages | **C++, Java** |
 
 ---
 
-## GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/saniyaaahhh">
-
 <img src="https://github-readme-stats.vercel.app/api?username=saniyaaahhh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-</a>
-
-<a href="https://github.com/saniyaaahhh">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyaaahhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180" alt="Top Languages"/>
-
-</a>
 
 <br><br>
 
@@ -279,7 +347,7 @@ The system focuses on secure management of hospital information through **authen
 
 ---
 
-## GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -289,17 +357,17 @@ The system focuses on secure management of hospital information through **authen
 
 ---
 
-## Contribution Activity
+# 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saniyaaahhh&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saniyaaahhh&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -309,7 +377,7 @@ The system focuses on secure management of hospital information through **authen
 
 ---
 
-## Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -340,42 +408,42 @@ Open To:
   - Cybersecurity projects
   - Data analytics projects
   - IoT projects
-```
-
----
-
-## Connect
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:saniyanazz16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-saniyanazz16%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-saniyanazz16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saniyanaz-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Saniya%20Naz-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Saniya%20Naz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/saniyaaahhh">
-<img src="https://img.shields.io/badge/GitHub-saniyaaahhh-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-saniyaaahhh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/u/saniyaaahhh/">
-<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-saniyaaahhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-</div>
+<br><br>
 
----
+<a href="mailto:saniyanazz16@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## Footer
+<a href="https://www.linkedin.com/in/saniyanaz-dev">
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<a href="https://github.com/saniyaaahhh">
+<img src="https://img.shields.io/badge/Explore%20My-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Building secure, practical and meaningful technology through continuous learning.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer"/>
+<a href="https://leetcode.com/u/saniyaaahhh/">
+<img src="https://img.shields.io/badge/View%20My-LeetCode-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
